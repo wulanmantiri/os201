@@ -1,2 +1,26 @@
 OS 2020 1
 Assignments of Week 02: done!
+
+Data:
+OS201 B 1806205666 wulanmantiri Wulan Mantiri
+
+Encrypted message:
+
+-----BEGIN PGP MESSAGE-----
+Version: BCPG C# v1.6.1.0
+
+hQIMA9D1291n323eAQ/+IoVvZX/YeW2lz2WzxbHeCGxX+IA2xpVKZvKftsQZQbo4
+3ucwadvW1tnWzTBgd9EnDUzuJzIKjRCyXThUTEvPZDuWEitV5FB+/IOxMG5R3jun
+oihwmcX4YgLYkGK2F3iw2qMlSbFstJvfBnopcD/DYFrAa4r9wciHqbVy4ijcR3QW
+oX0iBE+g5ATyKTsS7QN0snAzzQdY8F3+QyvBzIFfZLVfzjWdQ0NlA/vSBK60STAk
+b9U0Z+AIfnwLSWkiXkUaILyDqFKW6ARILSz68WaxQmRm1k1Q6s1brkEHayiACDys
+Xm1fngPanVkaQ17lopadeBImDeH9TyEjNBMpJ3hf8hQM0qjoNsjoQFLnpqTk+p4K
+CTu63YRNrkDJBW0Sx0g3YxUpI86NStMiSgGdGnt7u2N24ylV6SVdSzNeld0loxAs
+yuKi0Ap0Gxpw3jGthIj/Z44FXL9W/v+sDPPJ1WGernoy1qmlzS1iCYNc2fuK2AoN
+19fnu3XF/2ns9sEals88O4A1v1R5mzwQ0ae7i2xsJ2tWA1Gu6GiP4Lz03F2BFBIf
+t6gRuROrV/ppUGVXp9VH3j1z0iq4tO0edxFx7OChdNZmNh257ixFT+Q8oz8R+ONw
+F7cGMxeZadiPeDBub2iREPJcQKKodnxQkdqR17BXyu607h1iheoanuOghleOcNnJ
+RTevX9aOXUdCi8I2lDISTFoSY2tya19cFjoFDsS/I4/0+5YATUDpoMSFIIlyRu2o
+rkmLnki/UPicu91hrbuNurnlDiVNKw==
+=2WQv
+-----END PGP MESSAGE-----
