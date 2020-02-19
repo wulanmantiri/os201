@@ -1,8 +1,3 @@
-OS 2020 1
-Assignments of Week 03: done!
-
-Public Key id: 47B6693A1D05C717
-
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBF5Mq8oBEADEJo5tanyrmXsEgR/tjC5udfe9BWKnip+n5zKXKFVNy7EtSLmd
@@ -80,4 +75,3 @@ imbd0TG2qfbT6iNurJTKq/duZOgWc2wYqkMONEMYc03Bf4eUgKzRFd7CGGyIgePV
 7AQfcQDxo2BZLXKc4ijqrRJ8h40Zw6QCRtnmVq8F9hbT9V7qxb12Gg==
 =B4GN
 -----END PGP PUBLIC KEY BLOCK-----
-
