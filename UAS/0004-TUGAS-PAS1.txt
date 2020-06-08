@@ -1,0 +1,37 @@
+Script started on 2020-06-08 18:00:56+0700
+]0;wul@wulan-pc: ~/Documents/os201/UAS[01;32mwul@wulan-pc[00m:[01;34m~/Documents/os201/UAS[00m$ PS1="$ "
+$ echo $GitHubUser
+wulanmantiri
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200608-180116-16d6-UAS/> 
+$ PS1="\$(eval \$PSTAMP)"
+200608-180122-888e-UAS/> echo -e $CEKSAYA
+wulanmantiri ZCZCSCRIPTSTART 200602-231433 wulanmantiri
+ wulanmantiri wulanmantiri 200602-231449-e3e6-UAS/ 200602-231449 SEQOK SUMOK e3e64da9
+ wulanmantiri wulanmantiri 200602-231458-c063-UAS/ 200602-231458 SEQOK SUMOK c063029c
+ wulanmantiri wulanmantiri 200602-231500-bcc9-UAS/ 200602-231500 SEQOK SUMOK bcc93337
+ wulanmantiri wulanmantiri 200602-231507-374c-UAS/ 200602-231507 SEQOK SUMOK 374c2bec
+ wulanmantiri ZCZCSCRIPTSTOP 200602-231511 SEQOK
+
+200608-180128-e4e9-UAS/> echo -e $CEKSEBELA1
+wulanmantiri ZCZCSCRIPTSTART 200606-171150 Xerdiosa
+ wulanmantiri Xerdiosa 200606-171237-caa0-UAS/ 200606-171237 SEQOK SUMOK caa0579a
+ wulanmantiri Xerdiosa 200606-171247-0755-UAS/ 200606-171247 SEQOK SUMOK 0755e989
+ wulanmantiri Xerdiosa 200606-171258-ebd3-UAS/ 200606-171258 SEQOK SUMOK ebd3de61
+ wulanmantiri Xerdiosa 200606-171307-6746-UAS/ 200606-171307 SEQOK SUMOK 6746e807
+ wulanmantiri ZCZCSCRIPTSTOP 200602-171319 SEQOK
+
+200608-180134-7312-UAS/> echo -e $CEKSEBELA2
+wulanmantiri ZCZCSCRIPTSTART 200602-002959 yasminadelia
+ wulanmantiri yasminadelia 200602-003059-d0f9-yasmin.adelia/ 200602-003059 SEQOK SUMOK d0f94332
+ wulanmantiri yasminadelia 200602-003106-b74f-yasmin.adelia/ 200602-003106 SEQOK SUMOK b74fbe7d
+ wulanmantiri yasminadelia 200602-003129-7e25-yasmin.adelia/ 200602-003129 SEQOK SUMOK 7e25c243
+ wulanmantiri yasminadelia 200602-003152-c652-yasmin.adelia/ 200602-003152 SEQOK SUMOK c652fdf9
+ wulanmantiri ZCZCSCRIPTSTOP 200602-003217 SEQOK
+
+200608-180139-01ae-UAS/> exit
+exit
+
+Script done on 2020-06-08 18:01:45+0700
