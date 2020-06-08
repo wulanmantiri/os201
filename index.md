@@ -6,8 +6,8 @@ title: Wulan's GitHub Pages
 
 Origins of this site:
 
-|#   |Questions |Answers |
-|-----|:---|:---|
+|No.| Questions |Answers |
+|---|:---|:---|
 |1|`Who` created this website? | Check the author section below! |
 |2|`What` is this website? | This is a GitHub page dedicated to Operating Systems course for 2019/2020 second term. |
 |3|`Why` choose the dinky theme? | Honestly? The color palette and the font are more superior than the others. |
