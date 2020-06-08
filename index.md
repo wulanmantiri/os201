@@ -6,8 +6,8 @@ title: Wulan's GitHub Pages
 
 Origins of this site:
 
-| Num |Questions |Answers |
-|:---:|:---|:---|
+|#   |Questions |Answers |
+|-----|:---|:---|
 |1|`Who` created this website? | Check the author section below! |
 |2|`What` is this website? | This is a GitHub page dedicated to Operating Systems course for 2019/2020 second term. |
 |3|`Why` choose the dinky theme? | Honestly? The color palette and the font are more superior than the others. |
@@ -16,7 +16,7 @@ Origins of this site:
 
 ## Author
 
-Wulan Mantiri 
+B 1806205666 Wulan Mantiri 
 
 - GitLab: [@wulanmantiri_](https://gitlab.com/wulanmantiri_)
 - GitHub: [@wulanmantiri](https://github.com/wulanmantiri)
